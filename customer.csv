@@ -1,0 +1,9 @@
+customer_id,name,city,signup_date,segment
+C001,Dev Parmar,Mumbai,2023-01-15,Premium
+C002,Rahul Sharma,Delhi,2023-02-10,Regular
+C003,Amit Verma,Bangalore,2023-03-05,Premium
+C004,Priya Singh,Pune,2023-04-12,Regular
+C005,Neha Patel,Ahmedabad,2023-05-20,Premium
+C006,Ankit Mehta,Mumbai,2023-06-01,Regular
+C007,Sneha Iyer,Chennai,2023-07-18,Premium
+C008,Rohan Das,Kolkata,2023-08-22,Regular
